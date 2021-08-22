@@ -1,11 +1,48 @@
-#EXTM3U
+#EXTINF:-1 ,有線新聞台
+https://api.leonardpark.dev/live/icable/109
+#EXTINF:-1 ,有線財經資訊台
+https://api.leonardpark.dev/live/icable/108
+#EXTINF:-1 ,Now Sports Prime 630
+http://livetv.dnsfor.me:80/channel.12.m3u8
+#EXTINF:-1 ,無綫新聞台
+https://cdn.hkdtmb.com/hls/83/index.m3u8
+#EXTINF:-1 ,無綫新聞台-2
+http://livetv.dnsfor.me:80/channel.10.m3u8
+#EXTINF:-1 ,無綫新聞台-3
+http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1629091812~exp=1629178212~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=bc5f4d27276812566f4a597e451442633ef2c24d7ba8a0c1d461750b56b979ac&p=3324
+#EXTINF:-1 ,無綫新聞台-4
+http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
+#EXTINF:-1 ,無綫財經·資訊台
+http://livetv.dnsfor.me:80/channel.11.m3u8
+#EXTINF:-1 ,無綫財經·資訊台-2
+https://cdn.hkdtmb.com/hls/85/index.m3u8
+#EXTINF:-1 ,無綫財經·資訊台-3
+http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1629091853~exp=1629178253~acl=/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/default/__f/*~hmac=113d6efdc629d8726ddaff955f4256c33b293c7ff7971a5850c50d1e0ce26765&p=3139
 #EXTINF:-1 ,TVB翡翠台
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
-#EXTINF:-1 ,耀才财经
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8 
+https://cdn.hkdtmb.com/hls/81/index.m3u8
+#EXTINF:-1 ,TVB翡翠台-2
+http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+#EXTINF:-1 ,TVB翡翠台-3
+http://61.238.6.49:8000/bysid/1
+#EXTINF:-1 ,TVB翡翠台-4
+http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+#EXTINF:-1 ,TVB J2
+https://cdn.hkdtmb.com/hls/82/index.m3u8
+#EXTINF:-1 ,TVB J2-2
+http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 #EXTINF:-1 ,明珠台
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+https://cdn.hkdtmb.com/hls/84/index.m3u8
+#EXTINF:-1 ,明珠台-2
+http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+#EXTINF:-1 ,香港開電視
+http://livetv.dnsfor.me:80/channel.9.m3u8
+#EXTINF:-1 ,香港開電視-2
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 ,耀才財經台
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 #EXTINF:-1 ,RTHK 31
 https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+#EXTINF:-1 ,RTHK 31-2
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
 #EXTINF:-1 ,RTHK 32
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
