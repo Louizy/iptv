@@ -1,2 +1,2 @@
 # iptv for personal use
-**ONLY PERSONAL USE**
+**ONLY FOR PERSONAL USE**
