@@ -1,6 +1,14 @@
 #EXTINF:-1 ,有線新聞台
+https://www.navchina.cf/IPTV/icable.php?id=37
+#EXTINF:-1 ,有線新聞台-2
 https://api.leonardpark.dev/live/icable/109
+#EXTINF:-1 ,有線新聞直播台
+https://www.navchina.cf/IPTV/icable.php?id=39
+#EXTINF:-1 ,有線新聞直播台-2
+https://api.leonardpark.dev/live/icable/110
 #EXTINF:-1 ,有線財經資訊台
+https://www.navchina.cf/IPTV/icable.php?id=38
+#EXTINF:-1 ,有線財經資訊台-2
 https://api.leonardpark.dev/live/icable/108
 #EXTINF:-1 ,Now Sports Prime 630
 http://livetv.dnsfor.me:80/channel.12.m3u8
