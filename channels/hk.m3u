@@ -1,5 +1,5 @@
 #EXTINF:-1 ,有線新聞台
-https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-3b9423a2-1630640207-1630726787-df0791304adc2cda75cd58682800ecc2-8d96ecf885ae950_800-03/freehd209_h.live/chunklist_w841072536.m3u8
+https://www.navchina.cf/IPTV/icable.php?id=37
 #EXTINF:-1 ,有線新聞台-2
 https://api.leonardpark.dev/live/icable/109
 #EXTINF:-1 ,有線新聞直播台
@@ -13,26 +13,32 @@ https://api.leonardpark.dev/live/icable/108
 #EXTINF:-1 ,Now Sports Prime 630
 http://livetv.dnsfor.me:80/channel.12.m3u8
 #EXTINF:-1 ,無綫新聞台
-https://cdn.hkdtmb.com/hls/83/index.m3u8
-#EXTINF:-1 ,無綫新聞台-2
-http://livetv.dnsfor.me:80/channel.10.m3u8
+http://iptv.tvfix.org/hls/inews.m3u8
+#EXTINF:-1 ,無綫新聞台-2        
+http://iptv.tvfix.org/hls/inews2.m3u8
 #EXTINF:-1 ,無綫新聞台-3
-http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1629091812~exp=1629178212~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=bc5f4d27276812566f4a597e451442633ef2c24d7ba8a0c1d461750b56b979ac&p=3324
+http://206.119.173.184/tv/js.php?id=12
 #EXTINF:-1 ,無綫新聞台-4
+https://cdn.hkdtmb.com/hls/83/index.m3u8
+#EXTINF:-1 ,無綫新聞台-5
+http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1629091812~exp=1629178212~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=bc5f4d27276812566f4a597e451442633ef2c24d7ba8a0c1d461750b56b979ac&p=3324
+#EXTINF:-1 ,無綫新聞台-6
 http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
 #EXTINF:-1 ,無綫財經·資訊台
-http://livetv.dnsfor.me:80/channel.11.m3u8
+http://206.119.173.184/tv/js.php?id=14 http://iptv.tvfix.org/hls/finance.m3u8 http://iptv.tvfix.org/hls/finance2.m3u8
 #EXTINF:-1 ,無綫財經·資訊台-2
 https://cdn.hkdtmb.com/hls/85/index.m3u8
 #EXTINF:-1 ,無綫財經·資訊台-3
 http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1629091853~exp=1629178253~acl=/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/default/__f/*~hmac=113d6efdc629d8726ddaff955f4256c33b293c7ff7971a5850c50d1e0ce26765&p=3139
 #EXTINF:-1 ,TVB翡翠台
-https://cdn.hkdtmb.com/hls/81/index.m3u8
+http://iptv.tvfix.org/hls/jade.m3u8
 #EXTINF:-1 ,TVB翡翠台-2
-http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+http://iptv.tvfix.org/hls/jade2.m3u8
 #EXTINF:-1 ,TVB翡翠台-3
-http://61.238.6.49:8000/bysid/1
+http://206.119.173.184/tv/js.php?id=4 
 #EXTINF:-1 ,TVB翡翠台-4
+http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8 
+#EXTINF:-1 ,TVB翡翠台-5
 http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 #EXTINF:-1 ,TVB J2
 https://cdn.hkdtmb.com/hls/82/index.m3u8
